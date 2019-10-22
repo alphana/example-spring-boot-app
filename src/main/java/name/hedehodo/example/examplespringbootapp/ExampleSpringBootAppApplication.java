@@ -1,4 +1,4 @@
-package name.atakan.example.examplespringbootapp;
+package name.hedehodo.example.examplespringbootapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

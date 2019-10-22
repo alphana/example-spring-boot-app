@@ -1,10 +1,11 @@
-package name.atakan.example.examplespringbootapp.controller;
+package name.hedehodo.example.examplespringbootapp.controller;
 
-import name.atakan.example.examplespringbootapp.model.Book;
-import name.atakan.example.examplespringbootapp.repository.BookRepository;
+import name.hedehodo.example.examplespringbootapp.model.Book;
+import name.hedehodo.example.examplespringbootapp.repository.BookRepository;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.*;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 

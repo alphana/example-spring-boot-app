@@ -1,6 +1,6 @@
-package name.atakan.example.examplespringbootapp.repository;
+package name.hedehodo.example.examplespringbootapp.repository;
 
-import name.atakan.example.examplespringbootapp.model.Book;
+import name.hedehodo.example.examplespringbootapp.model.Book;
 import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;

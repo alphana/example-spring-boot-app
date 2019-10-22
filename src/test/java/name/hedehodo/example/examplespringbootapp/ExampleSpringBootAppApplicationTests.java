@@ -1,4 +1,4 @@
-package name.atakan.example.examplespringbootapp;
+package name.hedehodo.example.examplespringbootapp;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

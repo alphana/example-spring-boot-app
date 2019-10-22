@@ -1,4 +1,4 @@
-package name.atakan.example.examplespringbootapp.model;
+package name.hedehodo.example.examplespringbootapp.model;
 
 public class Book {
     private long id;
